@@ -2,4 +2,4 @@
 
 <h3>About Repository</h3>
 
-This is the repository to keep learning algorithm.
+This is the repository for keep learning algorithm.
